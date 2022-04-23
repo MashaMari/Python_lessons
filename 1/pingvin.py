@@ -1,0 +1,6 @@
+print("    _")
+print("-=(o '.")
+print("   '.-.\\")
+print("   /|  \\\\")
+print("   '|  ||")
+print("   _\_):,_")

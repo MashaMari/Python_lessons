@@ -1,0 +1,8 @@
+first_number = int(input('Введите 1-е число: '))
+second_number = int(input('Введите 2-е число: '))
+print('Сумма:',first_number + second_number)
+print('Вычитание:',first_number - second_number)
+print('Произведение:',first_number * second_number)
+print('Частное:',first_number / second_number)
+print('Степень:',first_number ** second_number)
+print('Корень:',first_number ** (1/second_number))
